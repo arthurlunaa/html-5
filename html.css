@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+    border: 100;
+    justify-self: center;
+    display: flex;
+    border: 10%;
+}
+a{
+    border-radius: 0%0;
+    display: flex;
+}
+nav{
+    align-items: center;
+    border-radius: 1%;
+    border: 100%;
+}
